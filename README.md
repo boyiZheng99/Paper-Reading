@@ -1,29 +1,18 @@
-# 项目名称
+# Paper Reading List
 
-项目简介
+The papers shared during the monthly paper reading activity are for everyone's reference.
 
-## 功能列表
+## Paper List
 
-| 功能模块 | 描述 | 状态 | 负责人 |
-| -------- | ---- | ---- | ------ |
-| 功能A    | 功能A的详细描述 | 已完成 | 张三   |
-| 功能B    | 功能B的详细描述 | 进行中 | 李四   |
+| Date | Speaker | Paper | Authors | Year |Source |
+| ---- | ---- | ------------------- | ------ |------ |--------|
+| 2024.6.27   | Yichen Hu| 已完成 | 张三   |
+| 2024.6.27   | Yichen Hu| 进行中 | 李四   |
 | 功能C    | 功能C的详细描述 | 未开始 | 王五   |
 | 功能D    | 功能D的详细描述 | 已完成 | 赵六   |
 
-## 安装说明
+## Contribution
 
-安装步骤...
+Table created by Boyi Zheng.
 
-## 使用方法
-
-使用步骤...
-
-## 贡献
-
-贡献说明...
-
-## 许可证
-
-许可证信息...
 
